@@ -55,4 +55,4 @@ This exercise helped me practice using a coding assistant as part of a real file
 ## Walkthrough Video
 
 Unlisted video link:  
-
+https://youtu.be/qB4_6-OsKxw
